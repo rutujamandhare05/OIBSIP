@@ -1,2 +1,2 @@
-# OIBSIP
-Internship tasks in Oasis Infobyte Internship
+# OIBSIP_Calculator
+I have done calculator task using HTML, CSS and Javascript.
